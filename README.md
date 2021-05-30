@@ -7,8 +7,10 @@ The following two screenshots are comparing the scores of the model I made and s
 
 
 ![Screen Shot 2021-05-30 at 15 40 16](https://user-images.githubusercontent.com/42952515/120104490-565d3380-c15d-11eb-86eb-50205da9c7a9.png)
+
 ![Screen Shot 2021-05-30 at 15 40 23](https://user-images.githubusercontent.com/42952515/120104501-64ab4f80-c15d-11eb-9048-f93aafcf266f.png)
 
 
 The third screenshot is of the multinomial model I created. 
+
 ![Screen Shot 2021-05-30 at 15 40 29](https://user-images.githubusercontent.com/42952515/120104496-5d844180-c15d-11eb-89a8-8c34436eea23.png)
