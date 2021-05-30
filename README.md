@@ -14,3 +14,5 @@ The following two screenshots are comparing the scores of the model I made and s
 The third screenshot is of the multinomial model I created. 
 
 ![Screen Shot 2021-05-30 at 15 40 29](https://user-images.githubusercontent.com/42952515/120104496-5d844180-c15d-11eb-89a8-8c34436eea23.png)
+
+All work was done in a Jupyter Notebook
